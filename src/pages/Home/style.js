@@ -10,7 +10,7 @@ export const HomeWrapper = styled.div`
 `
 export const HomeContainer = styled.div`
   background-image : url(${props => props.bg});
-  background-position: top left;
+  background-position: top right;
   background-repeat: no-repeat;
   background-size: 30rem auto;
 
