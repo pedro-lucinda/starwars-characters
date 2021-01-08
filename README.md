@@ -1,7 +1,7 @@
 # Star Wars Characters
 
 Created for learning purposes.
-* The code is more complex that it needs to be just to show my skills.
+* The code is more complex than it needs to be just to show my skills.
 
 ### Link
 - https://starwars-characters.vercel.app/
